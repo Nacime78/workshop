@@ -1,0 +1,105 @@
+$classBlack: #581845;
+$classBrown: #900c3f;
+$lightBrown: #c70039;
+$skin: #f4e5b2;
+$pink: #d6c89c;
+$darkerGreen: #004b35;
+$darkGreen: #007c59;
+$green: #00956b;
+$lightGreen: #00c78e;
+$yellow: #ffc300;
+$cream: #ffe180;
+$lightCream: #fff8df;
+$darkBlue: #0086ff;
+$darkerBlue: #0065bf;
+$blue: #0086ff;
+$lightBlue: #0fd2ff;
+$lighterBlue: #dff0ff;
+
+body{
+    background-color: lightgrey;
+}
+
+section{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.black{
+    background-color: $classBlack;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    width: 2em;
+    height: 2em;
+    // border: 2px solid;
+}
+
+.brown{
+    background-color: $classBrown;
+}
+
+.lightBrown{
+    background-color: $lightBrown;
+}
+
+.pink{
+    background-color: $pink;
+}
+
+.darkGreen{
+    background-color: $darkGreen;
+}
+
+.darkerGreen{
+    background-color: $darkerGreen;
+}
+
+.green{
+    background-color: $green;
+}
+
+.lightGreen{
+    background-color: $lightGreen;
+}
+
+.yellow{
+    background-color: $yellow;
+}
+
+.cream{
+    background-color: $cream;
+}
+
+.lightCream{
+    background-color: $lightCream;
+}
+
+.darkBlue{
+    background-color: $darkBlue;
+}
+
+.darkerBlue{
+    background-color: $darkerBlue;
+}
+
+.blue{
+    background-color: $blue;
+}
+
+.lightBlue{
+    background-color: $lightBlue;
+}
+
+.lighterBlue{
+    background-color: $lighterBlue;
+}
+
+.skin{
+    background-color: $skin;
+}
+

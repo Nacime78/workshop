@@ -1,0 +1,85 @@
+body {
+  background-color: lightgrey;
+}
+
+section {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.black {
+  background-color: #581845;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  width: 2em;
+  height: 2em;
+}
+
+.brown {
+  background-color: #900c3f;
+}
+
+.lightBrown {
+  background-color: #c70039;
+}
+
+.pink {
+  background-color: #d6c89c;
+}
+
+.darkGreen {
+  background-color: #007c59;
+}
+
+.darkerGreen {
+  background-color: #004b35;
+}
+
+.green {
+  background-color: #00956b;
+}
+
+.lightGreen {
+  background-color: #00c78e;
+}
+
+.yellow {
+  background-color: #ffc300;
+}
+
+.cream {
+  background-color: #ffe180;
+}
+
+.lightCream {
+  background-color: #fff8df;
+}
+
+.darkBlue {
+  background-color: #0086ff;
+}
+
+.darkerBlue {
+  background-color: #0065bf;
+}
+
+.blue {
+  background-color: #0086ff;
+}
+
+.lightBlue {
+  background-color: #0fd2ff;
+}
+
+.lighterBlue {
+  background-color: #dff0ff;
+}
+
+.skin {
+  background-color: #f4e5b2;
+}/*# sourceMappingURL=style.css.map */
